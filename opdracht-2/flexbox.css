@@ -6,7 +6,7 @@
     margin: 0;
 }
 /* Opdracht 2.1 */
-div.one{
+div.one {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -14,53 +14,53 @@ div.one{
     margin-top: 10px;
 }
 
-div.one > p{
+div.one > p {
     display: flex;
     padding-bottom: 30px;
 }
 
-div.one > h3{
+div.one > h3 {
     display: flex;
     padding-bottom: 20px;
 }
 
 /* Opdracht 2.2 */
-div.two{
+div.two {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
 /* Opdracht 2.3 */
-.three{
+.three {
     display: flex;
     align-items: center;
 
 }
 
-ul#horizontal-list li{
+ul#horizontal-list li {
     display: inline-flex;
     margin: 30px;
 }
 
-.three-a{
+.three-a {
     display: inline-flex;
     margin-left: auto;
 }
 
-.login{
+.login {
     display: flex;
     justify-content: center;
 }
 
-.login > *{
+.login > * {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.login input{
+.login input {
     display: flex;
     width: 100%;
 }
